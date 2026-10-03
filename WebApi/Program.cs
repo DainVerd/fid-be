@@ -2,6 +2,7 @@ using Application;
 using Asp.Versioning;
 using Asp.Versioning.ApiExplorer;
 using Infrastructure;
+using Infrastructure.Persistence;
 using WebApi.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -65,7 +66,20 @@ try
     }
     app.UseExceptionHandler();
     app.MapControllers();
+
+
+    // init default data
+    // if already exist in db skip
+    using var scope = app.Services.CreateScope();
+
+    var initializer =
+        scope.ServiceProvider.GetRequiredService<DatabaseInitializer>();
+
+    await initializer.InitializeAsync();
+
     app.Run();
+
+   
 }
 catch (Exception ex)
 {

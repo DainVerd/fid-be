@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<documents>
+  <document>
+    <title>Confidentiality Policy 001</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>Legal Department</responsibleUnit>
+    <createdAt>2025-04-08T14:00:00+02:00</createdAt>
+    <url>https://example.com/documents/document-001.docx</url>
+    <fileType>HTML</fileType>
+    <estimatedReadingMinutes>11</estimatedReadingMinutes>
+    <importance>Low</importance>
+    <category>Confidential</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Records Management Procedure 002</title>
+    <description>Overview of required controls, responsibilities, and review steps.</description>
+    <responsibleUnit>Human Resources</responsibleUnit>
+    <createdAt>2025-01-08T15:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-002.pdf</url>
+    <fileType>TXT</fileType>
+    <estimatedReadingMinutes>49</estimatedReadingMinutes>
+    <importance>High</importance>
+    <category>Internal</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Whistleblowing Procedure 003</title>
+    <description>Overview of required controls, responsibilities, and review steps.</description>
+    <responsibleUnit>Compliance Department</responsibleUnit>
+    <createdAt>2025-02-14T18:45:00+02:00</createdAt>
+    <url>https://example.com/documents/document-003.html</url>
+    <fileType>TXT</fileType>
+    <estimatedReadingMinutes>24</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Restricted</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Sanctions Screening Procedure 004</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>Operations</responsibleUnit>
+    <createdAt>2024-07-28T14:45:00+02:00</createdAt>
+    <url>https://example.com/documents/document-004.xlsx</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingMinutes>60</estimatedReadingMinutes>
+    <importance>High</importance>
+    <category>Confidential</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Customer Due Diligence Manual 005</title>
+    <description>Internal guidance describing expected actions and escalation procedures.</description>
+    <responsibleUnit>Compliance Department</responsibleUnit>
+    <createdAt>2026-05-15T15:45:00+02:00</createdAt>
+    <url>https://example.com/documents/document-005.xlsx</url>
+    <fileType>DOCX</fileType>
+    <estimatedReadingMinutes>11</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Internal</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Customer Due Diligence Manual 006</title>
+    <description>Overview of required controls, responsibilities, and review steps.</description>
+    <responsibleUnit>IT Department</responsibleUnit>
+    <createdAt>2025-09-07T18:00:00+02:00</createdAt>
+    <url>https://example.com/documents/document-006.txt</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingMinutes>54</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Public</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Whistleblowing Procedure 007</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>Legal Department</responsibleUnit>
+    <createdAt>2024-12-06T12:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-007.txt</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingMinutes>39</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Restricted</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Confidentiality Policy 008</title>
+    <description>Practical instructions for employees responsible for compliance activities.</description>
+    <responsibleUnit>Operations</responsibleUnit>
+    <createdAt>2025-04-15T17:15:00+02:00</createdAt>
+    <url>https://example.com/documents/document-008.txt</url>
+    <fileType>XLSX</fileType>
+    <estimatedReadingMinutes>5</estimatedReadingMinutes>
+    <importance>Low</importance>
+    <category>Public</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Access Control Standard 009</title>
+    <description>Practical instructions for employees responsible for compliance activities.</description>
+    <responsibleUnit>Compliance Department</responsibleUnit>
+    <createdAt>2025-02-13T13:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-009.pdf</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingMinutes>36</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Restricted</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>AML Compliance Guidelines 010</title>
+    <description>Overview of required controls, responsibilities, and review steps.</description>
+    <responsibleUnit>Risk Management</responsibleUnit>
+    <createdAt>2024-09-08T13:45:00+02:00</createdAt>
+    <url>https://example.com/documents/document-010.html</url>
+    <fileType>TXT</fileType>
+    <estimatedReadingMinutes>11</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Confidential</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Confidentiality Policy 011</title>
+    <description>Overview of required controls, responsibilities, and review steps.</description>
+    <responsibleUnit>Legal Department</responsibleUnit>
+    <createdAt>2025-05-12T16:00:00+02:00</createdAt>
+    <url>https://example.com/documents/document-011.docx</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingMinutes>17</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Public</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Suspicious Activity Reporting Guide 012</title>
+    <description>Reference document for day-to-day operational and regulatory processes.</description>
+    <responsibleUnit>Finance Department</responsibleUnit>
+    <createdAt>2026-03-27T18:45:00+02:00</createdAt>
+    <url>https://example.com/documents/document-012.html</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingMinutes>25</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Confidential</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Employee Onboarding Guide 013</title>
+    <description>Overview of required controls, responsibilities, and review steps.</description>
+    <responsibleUnit>Legal Department</responsibleUnit>
+    <createdAt>2025-07-08T15:15:00+02:00</createdAt>
+    <url>https://example.com/documents/document-013.pdf</url>
+    <fileType>XLSX</fileType>
+    <estimatedReadingMinutes>51</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Internal</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Suspicious Activity Reporting Guide 014</title>
+    <description>Internal guidance describing expected actions and escalation procedures.</description>
+    <responsibleUnit>Human Resources</responsibleUnit>
+    <createdAt>2025-08-10T15:15:00+02:00</createdAt>
+    <url>https://example.com/documents/document-014.pdf</url>
+    <fileType>TXT</fileType>
+    <estimatedReadingMinutes>60</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Confidential</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Internal Risk Assessment 015</title>
+    <description>Internal guidance describing expected actions and escalation procedures.</description>
+    <responsibleUnit>Operations</responsibleUnit>
+    <createdAt>2025-10-28T16:00:00+02:00</createdAt>
+    <url>https://example.com/documents/document-015.pdf</url>
+    <fileType>XLSX</fileType>
+    <estimatedReadingMinutes>52</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Confidential</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Access Control Standard 016</title>
+    <description>Reference document for day-to-day operational and regulatory processes.</description>
+    <responsibleUnit>Finance Department</responsibleUnit>
+    <createdAt>2026-03-21T10:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-016.docx</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingMinutes>12</estimatedReadingMinutes>
+    <importance>High</importance>
+    <category>Confidential</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Transaction Monitoring Guide 017</title>
+    <description>Reference document for day-to-day operational and regulatory processes.</description>
+    <responsibleUnit>Finance Department</responsibleUnit>
+    <createdAt>2024-07-09T11:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-017.docx</url>
+    <fileType>HTML</fileType>
+    <estimatedReadingMinutes>25</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Restricted</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Access Control Standard 018</title>
+    <description>Internal guidance describing expected actions and escalation procedures.</description>
+    <responsibleUnit>Internal Audit</responsibleUnit>
+    <createdAt>2026-05-18T09:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-018.pdf</url>
+    <fileType>DOCX</fileType>
+    <estimatedReadingMinutes>27</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Confidential</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Incident Response Procedure 019</title>
+    <description>Practical instructions for employees responsible for compliance activities.</description>
+    <responsibleUnit>Human Resources</responsibleUnit>
+    <createdAt>2025-01-02T18:15:00+02:00</createdAt>
+    <url>https://example.com/documents/document-019.txt</url>
+    <fileType>DOCX</fileType>
+    <estimatedReadingMinutes>32</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Public</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Incident Response Procedure 020</title>
+    <description>Reference document for day-to-day operational and regulatory processes.</description>
+    <responsibleUnit>Finance Department</responsibleUnit>
+    <createdAt>2025-01-14T17:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-020.pdf</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingMinutes>25</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Internal</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Whistleblowing Procedure 021</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>Operations</responsibleUnit>
+    <createdAt>2024-02-04T16:15:00+02:00</createdAt>
+    <url>https://example.com/documents/document-021.html</url>
+    <fileType>TXT</fileType>
+    <estimatedReadingMinutes>9</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Confidential</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Confidentiality Policy 022</title>
+    <description>Practical instructions for employees responsible for compliance activities.</description>
+    <responsibleUnit>Finance Department</responsibleUnit>
+    <createdAt>2024-02-18T11:15:00+02:00</createdAt>
+    <url>https://example.com/documents/document-022.pdf</url>
+    <fileType>HTML</fileType>
+    <estimatedReadingMinutes>58</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Public</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Cybersecurity Awareness Guide 023</title>
+    <description>Internal guidance describing expected actions and escalation procedures.</description>
+    <responsibleUnit>Legal Department</responsibleUnit>
+    <createdAt>2025-01-13T17:45:00+02:00</createdAt>
+    <url>https://example.com/documents/document-023.pdf</url>
+    <fileType>TXT</fileType>
+    <estimatedReadingMinutes>32</estimatedReadingMinutes>
+    <importance>Low</importance>
+    <category>Confidential</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Suspicious Activity Reporting Guide 024</title>
+    <description>Overview of required controls, responsibilities, and review steps.</description>
+    <responsibleUnit>Risk Management</responsibleUnit>
+    <createdAt>2024-11-18T09:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-024.txt</url>
+    <fileType>HTML</fileType>
+    <estimatedReadingMinutes>17</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Confidential</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Third-Party Risk Framework 025</title>
+    <description>Practical instructions for employees responsible for compliance activities.</description>
+    <responsibleUnit>Human Resources</responsibleUnit>
+    <createdAt>2024-09-14T14:00:00+02:00</createdAt>
+    <url>https://example.com/documents/document-025.txt</url>
+    <fileType>HTML</fileType>
+    <estimatedReadingMinutes>43</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Internal</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Data Retention Standard 026</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>Operations</responsibleUnit>
+    <createdAt>2025-04-14T14:00:00+02:00</createdAt>
+    <url>https://example.com/documents/document-026.html</url>
+    <fileType>TXT</fileType>
+    <estimatedReadingMinutes>25</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Restricted</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Sanctions Screening Procedure 027</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>IT Department</responsibleUnit>
+    <createdAt>2025-02-14T15:15:00+02:00</createdAt>
+    <url>https://example.com/documents/document-027.html</url>
+    <fileType>DOCX</fileType>
+    <estimatedReadingMinutes>13</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Restricted</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Internal Risk Assessment 028</title>
+    <description>Internal guidance describing expected actions and escalation procedures.</description>
+    <responsibleUnit>Risk Management</responsibleUnit>
+    <createdAt>2024-09-01T15:15:00+02:00</createdAt>
+    <url>https://example.com/documents/document-028.txt</url>
+    <fileType>XLSX</fileType>
+    <estimatedReadingMinutes>17</estimatedReadingMinutes>
+    <importance>Low</importance>
+    <category>Internal</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Data Retention Standard 029</title>
+    <description>Internal guidance describing expected actions and escalation procedures.</description>
+    <responsibleUnit>Legal Department</responsibleUnit>
+    <createdAt>2025-09-19T11:45:00+02:00</createdAt>
+    <url>https://example.com/documents/document-029.xlsx</url>
+    <fileType>DOCX</fileType>
+    <estimatedReadingMinutes>59</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Confidential</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Access Control Standard 030</title>
+    <description>Reference document for day-to-day operational and regulatory processes.</description>
+    <responsibleUnit>Risk Management</responsibleUnit>
+    <createdAt>2025-01-18T13:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-030.txt</url>
+    <fileType>TXT</fileType>
+    <estimatedReadingMinutes>32</estimatedReadingMinutes>
+    <importance>High</importance>
+    <category>Public</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Third-Party Risk Framework 031</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>Legal Department</responsibleUnit>
+    <createdAt>2026-02-06T12:00:00+02:00</createdAt>
+    <url>https://example.com/documents/document-031.pdf</url>
+    <fileType>HTML</fileType>
+    <estimatedReadingMinutes>6</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Confidential</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Information Security Policy 032</title>
+    <description>Practical instructions for employees responsible for compliance activities.</description>
+    <responsibleUnit>Internal Audit</responsibleUnit>
+    <createdAt>2025-05-25T18:15:00+02:00</createdAt>
+    <url>https://example.com/documents/document-032.docx</url>
+    <fileType>DOCX</fileType>
+    <estimatedReadingMinutes>9</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Confidential</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>AML Compliance Guidelines 033</title>
+    <description>Overview of required controls, responsibilities, and review steps.</description>
+    <responsibleUnit>Finance Department</responsibleUnit>
+    <createdAt>2024-09-03T13:00:00+02:00</createdAt>
+    <url>https://example.com/documents/document-033.html</url>
+    <fileType>DOCX</fileType>
+    <estimatedReadingMinutes>31</estimatedReadingMinutes>
+    <importance>High</importance>
+    <category>Internal</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Business Continuity Plan 034</title>
+    <description>Practical instructions for employees responsible for compliance activities.</description>
+    <responsibleUnit>Finance Department</responsibleUnit>
+    <createdAt>2026-01-12T13:15:00+02:00</createdAt>
+    <url>https://example.com/documents/document-034.pdf</url>
+    <fileType>HTML</fileType>
+    <estimatedReadingMinutes>27</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Confidential</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Internal Risk Assessment 035</title>
+    <description>Overview of required controls, responsibilities, and review steps.</description>
+    <responsibleUnit>Internal Audit</responsibleUnit>
+    <createdAt>2024-03-03T18:00:00+02:00</createdAt>
+    <url>https://example.com/documents/document-035.xlsx</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingMinutes>17</estimatedReadingMinutes>
+    <importance>High</importance>
+    <category>Internal</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Data Retention Standard 036</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>Finance Department</responsibleUnit>
+    <createdAt>2026-03-14T14:00:00+02:00</createdAt>
+    <url>https://example.com/documents/document-036.xlsx</url>
+    <fileType>DOCX</fileType>
+    <estimatedReadingMinutes>43</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Internal</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Third-Party Risk Framework 037</title>
+    <description>Practical instructions for employees responsible for compliance activities.</description>
+    <responsibleUnit>Finance Department</responsibleUnit>
+    <createdAt>2026-03-20T14:45:00+02:00</createdAt>
+    <url>https://example.com/documents/document-037.xlsx</url>
+    <fileType>TXT</fileType>
+    <estimatedReadingMinutes>26</estimatedReadingMinutes>
+    <importance>Low</importance>
+    <category>Public</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Business Continuity Plan 038</title>
+    <description>Internal guidance describing expected actions and escalation procedures.</description>
+    <responsibleUnit>Internal Audit</responsibleUnit>
+    <createdAt>2024-08-14T18:00:00+02:00</createdAt>
+    <url>https://example.com/documents/document-038.pdf</url>
+    <fileType>XLSX</fileType>
+    <estimatedReadingMinutes>56</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Restricted</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Employee Onboarding Guide 039</title>
+    <description>Internal guidance describing expected actions and escalation procedures.</description>
+    <responsibleUnit>Risk Management</responsibleUnit>
+    <createdAt>2025-11-24T10:15:00+02:00</createdAt>
+    <url>https://example.com/documents/document-039.html</url>
+    <fileType>XLSX</fileType>
+    <estimatedReadingMinutes>50</estimatedReadingMinutes>
+    <importance>High</importance>
+    <category>Restricted</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Business Continuity Plan 040</title>
+    <description>Practical instructions for employees responsible for compliance activities.</description>
+    <responsibleUnit>Human Resources</responsibleUnit>
+    <createdAt>2025-06-12T18:00:00+02:00</createdAt>
+    <url>https://example.com/documents/document-040.docx</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingMinutes>9</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Restricted</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Employee Onboarding Guide 041</title>
+    <description>Internal guidance describing expected actions and escalation procedures.</description>
+    <responsibleUnit>Legal Department</responsibleUnit>
+    <createdAt>2025-01-31T09:00:00+02:00</createdAt>
+    <url>https://example.com/documents/document-041.html</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingMinutes>5</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Restricted</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Business Continuity Plan 042</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>Internal Audit</responsibleUnit>
+    <createdAt>2026-03-01T13:45:00+02:00</createdAt>
+    <url>https://example.com/documents/document-042.xlsx</url>
+    <fileType>HTML</fileType>
+    <estimatedReadingMinutes>17</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Confidential</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>AML Compliance Guidelines 043</title>
+    <description>Practical instructions for employees responsible for compliance activities.</description>
+    <responsibleUnit>Internal Audit</responsibleUnit>
+    <createdAt>2025-05-29T09:45:00+02:00</createdAt>
+    <url>https://example.com/documents/document-043.xlsx</url>
+    <fileType>HTML</fileType>
+    <estimatedReadingMinutes>48</estimatedReadingMinutes>
+    <importance>Low</importance>
+    <category>Restricted</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Whistleblowing Procedure 044</title>
+    <description>Internal guidance describing expected actions and escalation procedures.</description>
+    <responsibleUnit>Legal Department</responsibleUnit>
+    <createdAt>2026-01-22T17:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-044.docx</url>
+    <fileType>DOCX</fileType>
+    <estimatedReadingMinutes>32</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Public</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Vendor Assessment Checklist 045</title>
+    <description>Internal guidance describing expected actions and escalation procedures.</description>
+    <responsibleUnit>Legal Department</responsibleUnit>
+    <createdAt>2026-04-20T18:15:00+02:00</createdAt>
+    <url>https://example.com/documents/document-045.txt</url>
+    <fileType>XLSX</fileType>
+    <estimatedReadingMinutes>46</estimatedReadingMinutes>
+    <importance>Low</importance>
+    <category>Internal</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Transaction Monitoring Guide 046</title>
+    <description>Internal guidance describing expected actions and escalation procedures.</description>
+    <responsibleUnit>Finance Department</responsibleUnit>
+    <createdAt>2025-07-29T14:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-046.txt</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingMinutes>8</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Internal</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Records Management Procedure 047</title>
+    <description>Reference document for day-to-day operational and regulatory processes.</description>
+    <responsibleUnit>Finance Department</responsibleUnit>
+    <createdAt>2025-10-02T16:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-047.txt</url>
+    <fileType>DOCX</fileType>
+    <estimatedReadingMinutes>60</estimatedReadingMinutes>
+    <importance>Low</importance>
+    <category>Internal</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Business Continuity Plan 048</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>Legal Department</responsibleUnit>
+    <createdAt>2024-08-04T15:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-048.docx</url>
+    <fileType>TXT</fileType>
+    <estimatedReadingMinutes>20</estimatedReadingMinutes>
+    <importance>High</importance>
+    <category>Confidential</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Access Control Standard 049</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>IT Department</responsibleUnit>
+    <createdAt>2024-10-21T10:00:00+02:00</createdAt>
+    <url>https://example.com/documents/document-049.xlsx</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingMinutes>56</estimatedReadingMinutes>
+    <importance>Low</importance>
+    <category>Public</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Records Management Procedure 050</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>IT Department</responsibleUnit>
+    <createdAt>2025-07-28T17:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-050.docx</url>
+    <fileType>HTML</fileType>
+    <estimatedReadingMinutes>7</estimatedReadingMinutes>
+    <importance>Low</importance>
+    <category>Confidential</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Audit Preparation Manual 051</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>Operations</responsibleUnit>
+    <createdAt>2024-05-21T14:15:00+02:00</createdAt>
+    <url>https://example.com/documents/document-051.docx</url>
+    <fileType>DOCX</fileType>
+    <estimatedReadingMinutes>9</estimatedReadingMinutes>
+    <importance>High</importance>
+    <category>Public</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Data Retention Standard 052</title>
+    <description>Practical instructions for employees responsible for compliance activities.</description>
+    <responsibleUnit>Risk Management</responsibleUnit>
+    <createdAt>2024-10-05T11:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-052.xlsx</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingMinutes>53</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Public</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Customer Due Diligence Manual 053</title>
+    <description>Overview of required controls, responsibilities, and review steps.</description>
+    <responsibleUnit>IT Department</responsibleUnit>
+    <createdAt>2025-11-30T10:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-053.xlsx</url>
+    <fileType>HTML</fileType>
+    <estimatedReadingMinutes>4</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Confidential</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Information Security Policy 054</title>
+    <description>Practical instructions for employees responsible for compliance activities.</description>
+    <responsibleUnit>Compliance Department</responsibleUnit>
+    <createdAt>2025-04-09T10:45:00+02:00</createdAt>
+    <url>https://example.com/documents/document-054.xlsx</url>
+    <fileType>TXT</fileType>
+    <estimatedReadingMinutes>34</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Restricted</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Records Management Procedure 055</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>Internal Audit</responsibleUnit>
+    <createdAt>2026-03-19T14:15:00+02:00</createdAt>
+    <url>https://example.com/documents/document-055.txt</url>
+    <fileType>TXT</fileType>
+    <estimatedReadingMinutes>52</estimatedReadingMinutes>
+    <importance>High</importance>
+    <category>Public</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Cybersecurity Awareness Guide 056</title>
+    <description>Reference document for day-to-day operational and regulatory processes.</description>
+    <responsibleUnit>Compliance Department</responsibleUnit>
+    <createdAt>2025-09-12T11:00:00+02:00</createdAt>
+    <url>https://example.com/documents/document-056.txt</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingMinutes>13</estimatedReadingMinutes>
+    <importance>High</importance>
+    <category>Confidential</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Vendor Assessment Checklist 057</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>Legal Department</responsibleUnit>
+    <createdAt>2024-12-06T17:15:00+02:00</createdAt>
+    <url>https://example.com/documents/document-057.txt</url>
+    <fileType>TXT</fileType>
+    <estimatedReadingMinutes>50</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Public</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Suspicious Activity Reporting Guide 058</title>
+    <description>Internal guidance describing expected actions and escalation procedures.</description>
+    <responsibleUnit>Legal Department</responsibleUnit>
+    <createdAt>2024-08-27T18:00:00+02:00</createdAt>
+    <url>https://example.com/documents/document-058.docx</url>
+    <fileType>DOCX</fileType>
+    <estimatedReadingMinutes>13</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Confidential</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Operational Risk Handbook 059</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>Risk Management</responsibleUnit>
+    <createdAt>2026-04-06T14:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-059.xlsx</url>
+    <fileType>HTML</fileType>
+    <estimatedReadingMinutes>32</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Confidential</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>AML Compliance Guidelines 060</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>Legal Department</responsibleUnit>
+    <createdAt>2025-05-01T18:00:00+02:00</createdAt>
+    <url>https://example.com/documents/document-060.txt</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingMinutes>46</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Confidential</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Records Management Procedure 061</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>Risk Management</responsibleUnit>
+    <createdAt>2024-03-05T15:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-061.txt</url>
+    <fileType>TXT</fileType>
+    <estimatedReadingMinutes>13</estimatedReadingMinutes>
+    <importance>Low</importance>
+    <category>Restricted</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Transaction Monitoring Guide 062</title>
+    <description>Internal guidance describing expected actions and escalation procedures.</description>
+    <responsibleUnit>Risk Management</responsibleUnit>
+    <createdAt>2025-11-20T11:15:00+02:00</createdAt>
+    <url>https://example.com/documents/document-062.docx</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingMinutes>33</estimatedReadingMinutes>
+    <importance>High</importance>
+    <category>Internal</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Access Control Standard 063</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>Finance Department</responsibleUnit>
+    <createdAt>2024-01-25T09:15:00+02:00</createdAt>
+    <url>https://example.com/documents/document-063.docx</url>
+    <fileType>TXT</fileType>
+    <estimatedReadingMinutes>17</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Restricted</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Audit Preparation Manual 064</title>
+    <description>Practical instructions for employees responsible for compliance activities.</description>
+    <responsibleUnit>Legal Department</responsibleUnit>
+    <createdAt>2026-02-07T14:45:00+02:00</createdAt>
+    <url>https://example.com/documents/document-064.txt</url>
+    <fileType>XLSX</fileType>
+    <estimatedReadingMinutes>5</estimatedReadingMinutes>
+    <importance>High</importance>
+    <category>Confidential</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Information Security Policy 065</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>Compliance Department</responsibleUnit>
+    <createdAt>2024-07-10T18:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-065.xlsx</url>
+    <fileType>XLSX</fileType>
+    <estimatedReadingMinutes>11</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Public</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Employee Onboarding Guide 066</title>
+    <description>Practical instructions for employees responsible for compliance activities.</description>
+    <responsibleUnit>Finance Department</responsibleUnit>
+    <createdAt>2025-07-28T12:15:00+02:00</createdAt>
+    <url>https://example.com/documents/document-066.pdf</url>
+    <fileType>HTML</fileType>
+    <estimatedReadingMinutes>28</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Internal</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Business Continuity Plan 067</title>
+    <description>Overview of required controls, responsibilities, and review steps.</description>
+    <responsibleUnit>Internal Audit</responsibleUnit>
+    <createdAt>2024-08-26T09:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-067.pdf</url>
+    <fileType>XLSX</fileType>
+    <estimatedReadingMinutes>23</estimatedReadingMinutes>
+    <importance>High</importance>
+    <category>Confidential</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Data Retention Standard 068</title>
+    <description>Internal guidance describing expected actions and escalation procedures.</description>
+    <responsibleUnit>IT Department</responsibleUnit>
+    <createdAt>2024-07-05T15:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-068.docx</url>
+    <fileType>TXT</fileType>
+    <estimatedReadingMinutes>40</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Internal</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Internal Risk Assessment 069</title>
+    <description>Overview of required controls, responsibilities, and review steps.</description>
+    <responsibleUnit>IT Department</responsibleUnit>
+    <createdAt>2024-06-21T10:15:00+02:00</createdAt>
+    <url>https://example.com/documents/document-069.docx</url>
+    <fileType>DOCX</fileType>
+    <estimatedReadingMinutes>52</estimatedReadingMinutes>
+    <importance>High</importance>
+    <category>Internal</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Employee Onboarding Guide 070</title>
+    <description>Reference document for day-to-day operational and regulatory processes.</description>
+    <responsibleUnit>IT Department</responsibleUnit>
+    <createdAt>2024-06-01T14:00:00+02:00</createdAt>
+    <url>https://example.com/documents/document-070.pdf</url>
+    <fileType>XLSX</fileType>
+    <estimatedReadingMinutes>39</estimatedReadingMinutes>
+    <importance>Low</importance>
+    <category>Internal</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Business Continuity Plan 071</title>
+    <description>Overview of required controls, responsibilities, and review steps.</description>
+    <responsibleUnit>Legal Department</responsibleUnit>
+    <createdAt>2026-02-12T15:45:00+02:00</createdAt>
+    <url>https://example.com/documents/document-071.pdf</url>
+    <fileType>HTML</fileType>
+    <estimatedReadingMinutes>17</estimatedReadingMinutes>
+    <importance>High</importance>
+    <category>Confidential</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Incident Response Procedure 072</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>Operations</responsibleUnit>
+    <createdAt>2024-08-18T12:45:00+02:00</createdAt>
+    <url>https://example.com/documents/document-072.txt</url>
+    <fileType>DOCX</fileType>
+    <estimatedReadingMinutes>50</estimatedReadingMinutes>
+    <importance>Low</importance>
+    <category>Restricted</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Sanctions Screening Procedure 073</title>
+    <description>Practical instructions for employees responsible for compliance activities.</description>
+    <responsibleUnit>Operations</responsibleUnit>
+    <createdAt>2025-06-06T14:00:00+02:00</createdAt>
+    <url>https://example.com/documents/document-073.docx</url>
+    <fileType>XLSX</fileType>
+    <estimatedReadingMinutes>13</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Internal</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Employee Onboarding Guide 074</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>Risk Management</responsibleUnit>
+    <createdAt>2025-10-27T13:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-074.xlsx</url>
+    <fileType>TXT</fileType>
+    <estimatedReadingMinutes>25</estimatedReadingMinutes>
+    <importance>Low</importance>
+    <category>Restricted</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Employee Onboarding Guide 075</title>
+    <description>Overview of required controls, responsibilities, and review steps.</description>
+    <responsibleUnit>Human Resources</responsibleUnit>
+    <createdAt>2024-09-02T12:45:00+02:00</createdAt>
+    <url>https://example.com/documents/document-075.docx</url>
+    <fileType>TXT</fileType>
+    <estimatedReadingMinutes>48</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Restricted</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Suspicious Activity Reporting Guide 076</title>
+    <description>Practical instructions for employees responsible for compliance activities.</description>
+    <responsibleUnit>Human Resources</responsibleUnit>
+    <createdAt>2025-09-02T15:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-076.xlsx</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingMinutes>29</estimatedReadingMinutes>
+    <importance>High</importance>
+    <category>Confidential</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Internal Risk Assessment 077</title>
+    <description>Practical instructions for employees responsible for compliance activities.</description>
+    <responsibleUnit>Human Resources</responsibleUnit>
+    <createdAt>2025-03-31T14:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-077.html</url>
+    <fileType>XLSX</fileType>
+    <estimatedReadingMinutes>11</estimatedReadingMinutes>
+    <importance>Low</importance>
+    <category>Confidential</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Information Security Policy 078</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>Human Resources</responsibleUnit>
+    <createdAt>2024-02-04T11:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-078.pdf</url>
+    <fileType>XLSX</fileType>
+    <estimatedReadingMinutes>14</estimatedReadingMinutes>
+    <importance>Low</importance>
+    <category>Public</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Access Control Standard 079</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>Human Resources</responsibleUnit>
+    <createdAt>2024-07-04T10:00:00+02:00</createdAt>
+    <url>https://example.com/documents/document-079.html</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingMinutes>31</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Public</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Employee Onboarding Guide 080</title>
+    <description>Reference document for day-to-day operational and regulatory processes.</description>
+    <responsibleUnit>Internal Audit</responsibleUnit>
+    <createdAt>2026-04-09T12:45:00+02:00</createdAt>
+    <url>https://example.com/documents/document-080.pdf</url>
+    <fileType>TXT</fileType>
+    <estimatedReadingMinutes>32</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Internal</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Information Security Policy 081</title>
+    <description>Overview of required controls, responsibilities, and review steps.</description>
+    <responsibleUnit>Legal Department</responsibleUnit>
+    <createdAt>2026-03-18T18:15:00+02:00</createdAt>
+    <url>https://example.com/documents/document-081.pdf</url>
+    <fileType>DOCX</fileType>
+    <estimatedReadingMinutes>9</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Confidential</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Operational Risk Handbook 082</title>
+    <description>Overview of required controls, responsibilities, and review steps.</description>
+    <responsibleUnit>Risk Management</responsibleUnit>
+    <createdAt>2024-12-24T09:45:00+02:00</createdAt>
+    <url>https://example.com/documents/document-082.pdf</url>
+    <fileType>XLSX</fileType>
+    <estimatedReadingMinutes>43</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Public</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Incident Response Procedure 083</title>
+    <description>Practical instructions for employees responsible for compliance activities.</description>
+    <responsibleUnit>Compliance Department</responsibleUnit>
+    <createdAt>2025-08-18T14:45:00+02:00</createdAt>
+    <url>https://example.com/documents/document-083.xlsx</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingMinutes>48</estimatedReadingMinutes>
+    <importance>Low</importance>
+    <category>Internal</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Confidentiality Policy 084</title>
+    <description>Reference document for day-to-day operational and regulatory processes.</description>
+    <responsibleUnit>Internal Audit</responsibleUnit>
+    <createdAt>2025-06-30T09:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-084.txt</url>
+    <fileType>TXT</fileType>
+    <estimatedReadingMinutes>42</estimatedReadingMinutes>
+    <importance>Low</importance>
+    <category>Restricted</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Data Retention Standard 085</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>Operations</responsibleUnit>
+    <createdAt>2025-04-30T13:45:00+02:00</createdAt>
+    <url>https://example.com/documents/document-085.xlsx</url>
+    <fileType>TXT</fileType>
+    <estimatedReadingMinutes>35</estimatedReadingMinutes>
+    <importance>High</importance>
+    <category>Restricted</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Sanctions Screening Procedure 086</title>
+    <description>Reference document for day-to-day operational and regulatory processes.</description>
+    <responsibleUnit>Legal Department</responsibleUnit>
+    <createdAt>2025-06-01T13:45:00+02:00</createdAt>
+    <url>https://example.com/documents/document-086.txt</url>
+    <fileType>HTML</fileType>
+    <estimatedReadingMinutes>36</estimatedReadingMinutes>
+    <importance>Low</importance>
+    <category>Public</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Audit Preparation Manual 087</title>
+    <description>Reference document for day-to-day operational and regulatory processes.</description>
+    <responsibleUnit>IT Department</responsibleUnit>
+    <createdAt>2025-08-01T13:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-087.pdf</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingMinutes>48</estimatedReadingMinutes>
+    <importance>Low</importance>
+    <category>Public</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Incident Response Procedure 088</title>
+    <description>Reference document for day-to-day operational and regulatory processes.</description>
+    <responsibleUnit>Finance Department</responsibleUnit>
+    <createdAt>2025-04-17T12:15:00+02:00</createdAt>
+    <url>https://example.com/documents/document-088.pdf</url>
+    <fileType>XLSX</fileType>
+    <estimatedReadingMinutes>7</estimatedReadingMinutes>
+    <importance>Low</importance>
+    <category>Internal</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Operational Risk Handbook 089</title>
+    <description>Reference document for day-to-day operational and regulatory processes.</description>
+    <responsibleUnit>Operations</responsibleUnit>
+    <createdAt>2025-10-08T14:15:00+02:00</createdAt>
+    <url>https://example.com/documents/document-089.txt</url>
+    <fileType>HTML</fileType>
+    <estimatedReadingMinutes>34</estimatedReadingMinutes>
+    <importance>High</importance>
+    <category>Restricted</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>AML Compliance Guidelines 090</title>
+    <description>Internal guidance describing expected actions and escalation procedures.</description>
+    <responsibleUnit>Compliance Department</responsibleUnit>
+    <createdAt>2025-10-12T11:15:00+02:00</createdAt>
+    <url>https://example.com/documents/document-090.xlsx</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingMinutes>29</estimatedReadingMinutes>
+    <importance>Low</importance>
+    <category>Confidential</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Vendor Assessment Checklist 091</title>
+    <description>Internal guidance describing expected actions and escalation procedures.</description>
+    <responsibleUnit>Operations</responsibleUnit>
+    <createdAt>2025-03-09T12:45:00+02:00</createdAt>
+    <url>https://example.com/documents/document-091.xlsx</url>
+    <fileType>XLSX</fileType>
+    <estimatedReadingMinutes>23</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Public</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Internal Risk Assessment 092</title>
+    <description>Overview of required controls, responsibilities, and review steps.</description>
+    <responsibleUnit>Finance Department</responsibleUnit>
+    <createdAt>2024-09-10T15:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-092.xlsx</url>
+    <fileType>HTML</fileType>
+    <estimatedReadingMinutes>30</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Public</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Internal Risk Assessment 093</title>
+    <description>Internal guidance describing expected actions and escalation procedures.</description>
+    <responsibleUnit>Legal Department</responsibleUnit>
+    <createdAt>2025-08-21T13:15:00+02:00</createdAt>
+    <url>https://example.com/documents/document-093.pdf</url>
+    <fileType>XLSX</fileType>
+    <estimatedReadingMinutes>45</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Restricted</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Sanctions Screening Procedure 094</title>
+    <description>Internal guidance describing expected actions and escalation procedures.</description>
+    <responsibleUnit>Compliance Department</responsibleUnit>
+    <createdAt>2025-08-29T17:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-094.docx</url>
+    <fileType>XLSX</fileType>
+    <estimatedReadingMinutes>51</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Internal</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Transaction Monitoring Guide 095</title>
+    <description>Overview of required controls, responsibilities, and review steps.</description>
+    <responsibleUnit>Compliance Department</responsibleUnit>
+    <createdAt>2025-11-23T13:00:00+02:00</createdAt>
+    <url>https://example.com/documents/document-095.html</url>
+    <fileType>XLSX</fileType>
+    <estimatedReadingMinutes>5</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Internal</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Third-Party Risk Framework 096</title>
+    <description>Guidance for internal procedures and control requirements.</description>
+    <responsibleUnit>Finance Department</responsibleUnit>
+    <createdAt>2025-01-08T12:00:00+02:00</createdAt>
+    <url>https://example.com/documents/document-096.txt</url>
+    <fileType>DOCX</fileType>
+    <estimatedReadingMinutes>40</estimatedReadingMinutes>
+    <importance>Low</importance>
+    <category>Internal</category>
+    <isActive>false</isActive>
+  </document>
+  <document>
+    <title>Internal Risk Assessment 097</title>
+    <description>Internal guidance describing expected actions and escalation procedures.</description>
+    <responsibleUnit>Risk Management</responsibleUnit>
+    <createdAt>2025-10-12T10:00:00+02:00</createdAt>
+    <url>https://example.com/documents/document-097.xlsx</url>
+    <fileType>TXT</fileType>
+    <estimatedReadingMinutes>23</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Public</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Operational Risk Handbook 098</title>
+    <description>Practical instructions for employees responsible for compliance activities.</description>
+    <responsibleUnit>Risk Management</responsibleUnit>
+    <createdAt>2025-04-26T17:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-098.html</url>
+    <fileType>DOCX</fileType>
+    <estimatedReadingMinutes>16</estimatedReadingMinutes>
+    <importance>Critical</importance>
+    <category>Public</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Suspicious Activity Reporting Guide 099</title>
+    <description>Reference document for day-to-day operational and regulatory processes.</description>
+    <responsibleUnit>Internal Audit</responsibleUnit>
+    <createdAt>2026-03-15T14:30:00+02:00</createdAt>
+    <url>https://example.com/documents/document-099.docx</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingMinutes>38</estimatedReadingMinutes>
+    <importance>Medium</importance>
+    <category>Confidential</category>
+    <isActive>true</isActive>
+  </document>
+  <document>
+    <title>Transaction Monitoring Guide 100</title>
+    <description>Practical instructions for employees responsible for compliance activities.</description>
+    <responsibleUnit>Internal Audit</responsibleUnit>
+    <createdAt>2026-03-19T14:00:00+02:00</createdAt>
+    <url>https://example.com/documents/document-100.txt</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingMinutes>15</estimatedReadingMinutes>
+    <importance>High</importance>
+    <category>Public</category>
+    <isActive>true</isActive>
+  </document>
+</documents>
