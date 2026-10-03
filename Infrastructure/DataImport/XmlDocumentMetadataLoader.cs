@@ -1,11 +1,12 @@
-﻿using Domain.Constants;
+﻿using Application.Interfaces.DataImport;
+using Domain.Constants;
 using Domain.Entities;
 using Microsoft.Extensions.Logging;
 using System.Xml.Linq;
 
 namespace Infrastructure.DataImport;
 
-public class XmlDocumentMetadataLoader
+public class XmlDocumentMetadataLoader : IXmlDocumentMetadataLoader
 {
     private readonly ILogger<XmlDocumentMetadataLoader> _logger;
 
