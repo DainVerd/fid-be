@@ -1,4 +1,5 @@
-﻿using Application.Interfaces.Repositories;
+﻿using Application.Interfaces.DataImport;
+using Application.Interfaces.Repositories;
 using Infrastructure.DataImport;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
@@ -8,13 +9,13 @@ namespace Infrastructure.Persistence;
 public class DatabaseInitializer
 {
     private readonly IUnitOfWork _unitOfWork;
-    private readonly XmlDocumentMetadataLoader _loader;
+    private readonly IXmlDocumentMetadataLoader _loader;
     private readonly IHostEnvironment _environment;
     private readonly ILogger<DatabaseInitializer> _logger;
 
     public DatabaseInitializer(
         IUnitOfWork unitOfWork,
-        XmlDocumentMetadataLoader loader,
+        IXmlDocumentMetadataLoader loader,
         IHostEnvironment environment,
         ILogger<DatabaseInitializer> logger)
     {

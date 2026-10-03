@@ -1,4 +1,5 @@
-﻿using Application.Interfaces.Repositories;
+﻿using Application.Interfaces.DataImport;
+using Application.Interfaces.Repositories;
 using Application.Interfaces.Services;
 using Infrastructure.DataImport;
 using Infrastructure.Persistence;
@@ -32,6 +33,7 @@ public static class DependencyInjection
         services.AddScoped<DatabaseInitializer>();
         services.AddScoped<XmlDocumentMetadataLoader>();
         services.AddScoped<IDocumentMetadataService, DocumentMetadataService>();
+        services.AddScoped<IXmlDocumentMetadataLoader, XmlDocumentMetadataLoader>();
 
         return services;
     }
