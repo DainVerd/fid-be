@@ -8,7 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 try
 {
-    // project dependencies in Clean Architecture
+    // project dependencies of Clean Architecture
     builder.Services
     .AddApplication()
     .AddInfrastructure(builder.Configuration);

@@ -1,4 +1,6 @@
-﻿using Infrastructure.Persistence;
+﻿using Application.Interfaces.Repositories;
+using Infrastructure.Persistence;
+using Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -15,6 +17,13 @@ public static class DependencyInjection
         services.AddDbContext<AppDbContext>(options =>
             options.UseSqlite(
                 configuration.GetConnectionString("DefaultConnection")));
+
+        // repositories and uow
+        services.AddScoped<
+            IDocumentMetadataRepository,
+            DocumentMetadataRepository>();
+
+        services.AddScoped<IUnitOfWork, UnitOfWork>();
 
         return services;
     }
