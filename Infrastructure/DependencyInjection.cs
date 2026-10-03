@@ -1,4 +1,5 @@
 ﻿using Application.Interfaces.Repositories;
+using Infrastructure.DataImport;
 using Infrastructure.Persistence;
 using Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
@@ -24,6 +25,10 @@ public static class DependencyInjection
             DocumentMetadataRepository>();
 
         services.AddScoped<IUnitOfWork, UnitOfWork>();
+
+        // services live here
+        services.AddScoped<DatabaseInitializer>();
+        services.AddScoped<XmlDocumentMetadataLoader>();
 
         return services;
     }
