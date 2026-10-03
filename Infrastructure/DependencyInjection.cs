@@ -1,7 +1,9 @@
 ﻿using Application.Interfaces.Repositories;
+using Application.Interfaces.Services;
 using Infrastructure.DataImport;
 using Infrastructure.Persistence;
 using Infrastructure.Repositories;
+using Infrastructure.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -29,6 +31,7 @@ public static class DependencyInjection
         // services live here
         services.AddScoped<DatabaseInitializer>();
         services.AddScoped<XmlDocumentMetadataLoader>();
+        services.AddScoped<IDocumentMetadataService, DocumentMetadataService>();
 
         return services;
     }
