@@ -13,7 +13,7 @@ public class DocumentMetadata : IEntity
 
     public string ResponsibleUnit { get; set; } = null!;
 
-    public DateTimeOffset CreatedAt { get; set; }
+    public DateTime CreatedAt { get; set; }
 
     public string Url { get; set; } = null!;
 

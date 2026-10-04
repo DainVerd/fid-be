@@ -85,6 +85,14 @@ public class DocumentMetadataRepository : IDocumentMetadataRepository
                 ? query.OrderByDescending(x => x.Importance)
                 : query.OrderBy(x => x.Importance),
 
+            "responsibleunit" => pagination.IsDescending
+               ? query.OrderByDescending(x => x.ResponsibleUnit)
+               : query.OrderBy(x => x.ResponsibleUnit),
+
+            "filetype" => pagination.IsDescending
+               ? query.OrderByDescending(x => x.FileType)
+               : query.OrderBy(x => x.FileType),
+
             _ => query.OrderBy(x => x.Id)
         };
 

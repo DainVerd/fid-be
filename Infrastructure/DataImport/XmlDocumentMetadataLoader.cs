@@ -63,7 +63,7 @@ public class XmlDocumentMetadataLoader : IXmlDocumentMetadataLoader
                 return null;
             }
 
-            if (!DateTimeOffset.TryParse(
+            if (!DateTime.TryParse(
                     element.Element("createdAt")?.Value,
                     out var createdAt))
             {

@@ -82,7 +82,7 @@ public class DatabaseInitializerTests
             Title = "AML Guidelines",
             Description = "AML document",
             ResponsibleUnit = "Compliance Department",
-            CreatedAt = DateTimeOffset.UtcNow,
+            CreatedAt = DateTime.UtcNow,
             Url = "https://example.com/aml.pdf",
             FileType = "PDF",
             EstimatedReadingMinutes = 15,

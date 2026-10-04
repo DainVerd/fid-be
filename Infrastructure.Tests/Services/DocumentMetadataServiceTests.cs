@@ -49,8 +49,8 @@ public class DocumentMetadataServiceTests
                 Title = "AML Guidelines",
                 Description = "AML document",
                 ResponsibleUnit = "Compliance Department",
-                CreatedAt = new DateTimeOffset(
-                    2026, 10, 1, 10, 0, 0, TimeSpan.Zero),
+                CreatedAt = new DateTime(
+                    2026, 10, 1, 10, 0, 0),
                 Url = "https://example.com/aml.pdf",
                 FileType = "PDF",
                 EstimatedReadingMinutes = 15,
@@ -129,7 +129,7 @@ public class DocumentMetadataServiceTests
                 Id = id,
                 Title = $"Document {id}",
                 ResponsibleUnit = "Compliance Department",
-                CreatedAt = DateTimeOffset.UtcNow,
+                CreatedAt = DateTime.UtcNow,
                 Url = $"https://example.com/{id}.pdf",
                 FileType = "PDF",
                 EstimatedReadingMinutes = 10,

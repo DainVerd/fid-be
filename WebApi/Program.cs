@@ -43,8 +43,20 @@ try
     builder.Services.AddExceptionHandler<GlobalExceptionHandler>();
     builder.Services.AddProblemDetails();
 
-    var app = builder.Build();
+    // cors policy
+    builder.Services.AddCors(options =>
+    {
+        options.AddPolicy("Frontend", policy =>
+        {
+            policy
+                .WithOrigins("http://localhost:5173")
+                .AllowAnyHeader()
+                .AllowAnyMethod();
+        });
+    });
 
+    var app = builder.Build();
+    app.UseCors("Frontend");
 
     if (app.Environment.IsDevelopment())
     {
