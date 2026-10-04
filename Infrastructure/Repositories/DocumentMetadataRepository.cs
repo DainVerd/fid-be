@@ -49,11 +49,11 @@ public class DocumentMetadataRepository : IDocumentMetadataRepository
 
         if (!string.IsNullOrWhiteSpace(filter.ResponsibleUnit))
             query = query.Where(x =>
-                x.ResponsibleUnit == filter.ResponsibleUnit);
+                x.ResponsibleUnit.Contains(filter.ResponsibleUnit));
 
         if (!string.IsNullOrWhiteSpace(filter.FileType))
             query = query.Where(x =>
-                x.FileType == filter.FileType);
+                x.FileType.Contains(filter.FileType));
 
         if (filter.Importance.HasValue)
             query = query.Where(x =>
